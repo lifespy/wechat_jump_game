@@ -2,9 +2,9 @@
 
 > 2017年12月28日下午，微信发布了 6.6.1 版本，加入了「小游戏」功能，并提供了官方 demo「跳一跳」。
 
-[https://wangshub.github.io](https://wangshub.github.io)
+[http://fajue.me/](http://fajue.me/)
 
-[项目地址](https://github.com/wangshub/wechat_jump_game)
+[项目地址](https://github.com/lifespy/wechat_jump_game)
 
 ### **更新日志：**
 
